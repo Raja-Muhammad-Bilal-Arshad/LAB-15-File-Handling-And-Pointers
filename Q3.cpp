@@ -1,3 +1,11 @@
+
+/*3. Write a program to add two numbers.
+a. Write a C++ program that creates a file.
+b. Ask the user to input two numbers
+c. Take their sum and store in variable.
+d. Write both numbers and their sum in file.
+e. Now read it from the file and display.*/
+
 #include<iostream>
 #include<fstream>
 #include<string>

@@ -1,0 +1,1 @@
+//5. Write a program to store n elements in an array and print the elements using a pointer.

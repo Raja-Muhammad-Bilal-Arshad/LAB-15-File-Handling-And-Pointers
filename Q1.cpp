@@ -1,4 +1,7 @@
-
+/*1. Write a program that creates a text file named firstfile.txt. Now open this file and write the
+following sentences in the file “My name is……. I am a student of BS CS 1st semester. My
+roll number is …….. I am taking the course of PF. This is my first created file”. Now close
+the file.*/
 #include<iostream>
 #include<fstream>
 #include<string>

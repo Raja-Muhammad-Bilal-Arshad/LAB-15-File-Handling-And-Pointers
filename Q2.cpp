@@ -21,5 +21,5 @@ int main()
     {
         cout<<"Your file is not open";
         return 1;
-    }
+    } 
 }
